@@ -21,7 +21,7 @@
 
 ## 🚀 Tech Stack  
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,tailwindcss,react,nodejs,expressjs,django,fastapi,mysql,mongodb,vscode,git,github,windows,linux&perline=6" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,tailwindcss,react,nodejs,expressjs,django,fastapi,mysql,mongodb,docker,vscode,git,github,windows,linux&perline=6" alt="Tech Stack" />
 
 ---
 
